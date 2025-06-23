@@ -1,4 +1,4 @@
-# 🧠 Alpha Discovery from Market Microstructure
+# Alpha Discovery from Market Microstructure
 
 This project explores the design of high-frequency trading signals using simulated order book data.  
 We build a full research pipeline from raw price data to signal modeling, backtesting, and performance analysis.
@@ -9,7 +9,7 @@ We build a full research pipeline from raw price data to signal modeling, backte
 
 ---
 
-## 🔍 Objectives
+## Objectives
 
 - Extract microstructure features (midprice, order imbalance, returns, volatility, etc.)
 - Model price movements using machine learning (Random Forest, etc.)
@@ -18,7 +18,7 @@ We build a full research pipeline from raw price data to signal modeling, backte
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 alpha-discovery/
@@ -32,7 +32,7 @@ alpha-discovery/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/Elliot45/alpha-discovery.git
@@ -49,7 +49,7 @@ Then explore the notebooks step by step:
 
 ---
 
-## 📈 Performance Example
+## Performance Example
 
 - **Sharpe Ratio**: ~1.25 (with realistic cost assumptions)  
 - **Hit Ratio**: ~51%  
@@ -60,13 +60,13 @@ Then explore the notebooks step by step:
 
 ---
 
-## 🧠 Author
+## Author
 
 Elliot Piet – Quant & Machine Learning Engineer  
 [LinkedIn](https://www.linkedin.com/in/elliotpiet) | [GitHub](https://github.com/Elliot45)
 
 ---
 
-## 📌 License
+## License
 
 This project is released under the MIT License.
